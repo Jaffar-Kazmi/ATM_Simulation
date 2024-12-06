@@ -72,9 +72,6 @@ This is an x86 Assembly language implementation of a simple ATM (Automated Telle
 ## Disclaimer
 This is an educational project demonstrating basic assembly language programming concepts in a banking simulation context.
 
-## Author
-- Jaffar Kazmi
-
 ## Educational Objectives
 - 3rd Semester (BSCS)
 - COAL Project
@@ -82,3 +79,6 @@ This is an educational project demonstrating basic assembly language programming
 - Showcase interrupt-based I/O
 - Illustrate procedural programming in assembly
 - Provide a practical simulation of a banking system
+
+## Author
+- Jaffar Kazmi
