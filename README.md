@@ -73,7 +73,7 @@ This is an x86 Assembly language implementation of a simple ATM (Automated Telle
 This is an educational project demonstrating basic assembly language programming concepts in a banking simulation context.
 
 ## Author
--Jaffar Kazmi
+- Jaffar Kazmi
 
 ## Educational Objectives
 - 3rd Semester (BSCS)
